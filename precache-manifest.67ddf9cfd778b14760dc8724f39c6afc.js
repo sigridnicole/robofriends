@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "846ee7eb6c10e8b1666db68cff98637d",
+    "revision": "b0c071126d21b78d082e15f2559d479e",
     "url": "/robofriends/index.html"
   },
   {
-    "revision": "8f9d1b9d0ea8f31bad2f",
+    "revision": "216b2cab18dec511edb1",
     "url": "/robofriends/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "9c299134989f56be8c13",
+    "revision": "aa23ad851c13bb303515",
     "url": "/robofriends/static/css/main.5a4860d5.chunk.css"
   },
   {
-    "revision": "8f9d1b9d0ea8f31bad2f",
-    "url": "/robofriends/static/js/2.5b396b40.chunk.js"
+    "revision": "216b2cab18dec511edb1",
+    "url": "/robofriends/static/js/2.d384135e.chunk.js"
   },
   {
-    "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/robofriends/static/js/2.5b396b40.chunk.js.LICENSE.txt"
+    "revision": "f231859d6585c4cd5f80c344783ed269",
+    "url": "/robofriends/static/js/2.d384135e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c299134989f56be8c13",
-    "url": "/robofriends/static/js/main.e4b51483.chunk.js"
+    "revision": "aa23ad851c13bb303515",
+    "url": "/robofriends/static/js/main.313da8d6.chunk.js"
   },
   {
     "revision": "5677d8ff5cb4c373cfaa",
