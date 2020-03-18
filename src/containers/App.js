@@ -28,7 +28,7 @@ const mapDispatchToProps = (dispatch) => {
 class App extends Component {
 
   componentDidMount (){
-    console.log("this.props testing for git attrib ahahaha", this.props)
+    console.log("this.propsayaw ko na hahaha", this.props)
     this.props.onRequestRobots();
   }
 
